@@ -1,0 +1,218 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+    <component name="AndroidLayouts">
+        <shared>
+            <config />
+        </shared>
+    </component>
+    <component name="ChangeListManager">
+        <list
+            name="Default Changelist"
+            comment=""
+            default="true"
+            id="0e266715-72de-46ec-bbb9-0f14ba6e86cf" />
+        <option
+            name="EXCLUDED_CONVERTED_TO_IGNORED"
+            value="true" />
+        <option
+            name="SHOW_DIALOG"
+            value="false" />
+        <option
+            name="HIGHLIGHT_CONFLICTS"
+            value="true" />
+        <option
+            name="HIGHLIGHT_NON_ACTIVE_CHANGELIST"
+            value="false" />
+        <option
+            name="LAST_RESOLUTION"
+            value="IGNORE" />
+    </component>
+    <component name="ExternalProjectsManager">
+        <system id="GRADLE">
+            <state>
+                <projects_view />
+            </state>
+        </system>
+    </component>
+    <component name="FUSProjectUsageTrigger">
+        <session id="813786423">
+            <usages-collector id="statistics.lifecycle.project">
+                <counts>
+                    <entry
+                        key="project.open.time.16"
+                        value="1" />
+                    <entry
+                        key="project.open.time.17"
+                        value="1" />
+                    <entry
+                        key="project.opened"
+                        value="2" />
+                </counts>
+            </usages-collector>
+            <usages-collector id="statistics.file.extensions.open">
+                <counts>
+                    <entry
+                        key="java"
+                        value="1" />
+                    <entry
+                        key="xml"
+                        value="1" />
+                </counts>
+            </usages-collector>
+            <usages-collector id="statistics.file.types.open">
+                <counts>
+                    <entry
+                        key="JAVA"
+                        value="1" />
+                    <entry
+                        key="XML"
+                        value="1" />
+                </counts>
+            </usages-collector>
+        </session>
+    </component>
+    <component name="FileEditorManager">
+        <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+            <file
+                current-in-tab="true"
+                pinned="false">
+                <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/myapplication1/MainActivity.java">
+                    <provider
+                        editor-type-id="text-editor"
+                        selected="true">
+                        <state relative-caret-position="107">
+                            <caret
+                                column="13"
+                                line="29"
+                                selection-end-column="13"
+                                selection-end-line="29"
+                                selection-start-column="13"
+                                selection-start-line="29" />
+                        </state>
+                    </provider>
+                </entry>
+            </file>
+            <file
+                current-in-tab="false"
+                pinned="false">
+                <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/content_main.xml">
+                    <provider
+                        editor-type-id="android-designer2"
+                        selected="true" />
+                    <provider editor-type-id="text-editor" />
+                </entry>
+            </file>
+        </leaf>
+    </component>
+    <component
+        name="ProjectFrameBounds"
+        extendedState="1">
+        <option
+            name="x"
+            value="10" />
+        <option
+            name="y"
+            value="20" />
+        <option
+            name="width"
+            value="1346" />
+        <option
+            name="height"
+            value="688" />
+    </component>
+    <component name="ProjectView">
+        <navigator
+            proportions=""
+            version="1">
+            <foldersAlwaysOnTop value="true" />
+        </navigator>
+        <panes>
+            <pane id="ProjectPane" />
+            <pane id="AndroidView">
+                <subPane>
+                    <expand>
+                        <path>
+                            <item
+                                name="MyApplication1"
+                                type="1abcf292:AndroidViewProjectNode" />
+                            <item
+                                name="app"
+                                type="feadf853:AndroidModuleNode" />
+                        </path>
+                        <path>
+                            <item
+                                name="MyApplication1"
+                                type="1abcf292:AndroidViewProjectNode" />
+                            <item
+                                name="app"
+                                type="feadf853:AndroidModuleNode" />
+                            <item
+                                name="res"
+                                type="d4f16f75:AndroidResFolderNode" />
+                        </path>
+                        <path>
+                            <item
+                                name="MyApplication1"
+                                type="1abcf292:AndroidViewProjectNode" />
+                            <item
+                                name="app"
+                                type="feadf853:AndroidModuleNode" />
+                            <item
+                                name="res"
+                                type="d4f16f75:AndroidResFolderNode" />
+                            <item
+                                name="layout"
+                                type="ddeffd01:AndroidResFolderTypeNode" />
+                        </path>
+                    </expand>
+                    <select />
+                </subPane>
+            </pane>
+            <pane id="Scope" />
+            <pane id="PackagesPane" />
+        </panes>
+    </component>
+    <component name="PropertiesComponent">
+        <property
+            name="android.sdk.path"
+            value="$USER_HOME$/AppData/Local/Android/Sdk" />
+        <property
+            name="device.picker.selection"
+            value="Nexus_6_API_26" />
+        <property
+            name="last_opened_file_path"
+            value="$USER_HOME$/Downloads" />
+    </component>
+    <component name="RunDashboard">
+        <option name="ruleStates">
+            <list>
+                <RuleState>
+                    <option
+                        name="name"
+                        value="ConfigurationTypeDashboardGroupingRule" />
+                </RuleState>
+                <RuleState>
+                    <option
+                        name="name"
+                        value="StatusDashboardGroupingRule" />
+                </RuleState>
+            </list>
+        </option>
+    </component>
+    <component name="RunManager">
+        <configuration
+            default="true"
+            factoryName="Android JUnit"
+            type="AndroidJUnit">
+            <option
+                name="WORKING_DIRECTORY"
+                value="$MODULE_DIR$" />
+            <method v="2">
+                <option
+                    name="Android.Gradle.BeforeRunTask"
+                    enabled="true" />
+            </method>
+        </configuration>
+        <configuration
+            name="app"
+            type="AndroidRu
